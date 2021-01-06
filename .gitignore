@@ -1,0 +1,11 @@
+# sbt
+bin/
+project/
+target/
+build/
+
+# VS Code extentions
+.bloop
+.bsp
+.metals
+.vscode
