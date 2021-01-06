@@ -30,7 +30,7 @@ The directory structure is as follows:
 
 ## Prerequisites
 
-- Install Scala, check the [docs](https://www.scala-lang.org/download/). First, install Java 8 and then Scala build tool (sbt).
+- Install Scala, check the [docs](https://www.scala-lang.org/download/). First, install Java 8 (or 11) and then Scala build tool (sbt).
 
 ## Running the application
 
